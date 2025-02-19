@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.yerali.xylophonedemo.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.yerali.xylophonedemo.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.xylophonedemo.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.xylophonedemo.app-main-34:\\layout\\activity_main.xml"
+    }
+]
